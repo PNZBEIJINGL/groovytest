@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="groovy-all-2.4.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/groovy-all-2.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/closure-compiler-v20161201.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/closure-compiler-v20161201.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -91,3 +91,14 @@ println "不传默认参数"
 repeat9(hi);
 println "传默认参数设置为5"
 repeat9(hi,5);
+
+//10，闭包， 简单来说可执行的函数块或者指针
+def message="hi,sayhi testing"
+def sayhi={
+    println message;
+}
+sayhi();
+//多个参数以逗号隔开
+def closure={String x,int y->print("x is ${x} ,y is ${y}")}
+closure("beijing",10);
+
